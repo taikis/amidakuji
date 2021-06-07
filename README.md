@@ -64,7 +64,7 @@ sheet.to_csv("result.csv")
 
 I tested 10,000 times.
 
-I find that amidakuji is not randomly.
+I found that Amidakuji is not completely random.
 
 So. if you play Amidakuji, you should choose right over that you want.
 
