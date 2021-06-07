@@ -20,7 +20,7 @@ Vertical line is an array, and horizontal line is array replace in programing.
 
 ex:
 
-![amidakuji_ex](https://user-images.githubusercontent.com/60678028/121020045-f0b31c00-c7da-11eb-8205-28939848ca03.png)
+![image](https://user-images.githubusercontent.com/60678028/121023403-358c8200-c7de-11eb-94d1-7843d576293d.png)
 
 
 
@@ -92,7 +92,7 @@ So. if you play Amidakuji, you should choose right over that you want.
 
 例:
 
-![amidakuji_ex](https://user-images.githubusercontent.com/60678028/121020045-f0b31c00-c7da-11eb-8205-28939848ca03.png)
+![image](https://user-images.githubusercontent.com/60678028/121023403-358c8200-c7de-11eb-94d1-7843d576293d.png)
 
 
 
