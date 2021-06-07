@@ -8,13 +8,13 @@
 
 Amidakuji (あみだくじ) is also known as "Ghost Leg" in Asia. [Ghost Leg - Wikipedia](https://en.wikipedia.org/wiki/Ghost_Leg)
 
- Japanese use Amidakuji when they decide something. They believe that Amidakuji is fairly and randomly way.
+Japanese use Amidakuji when they make decisions and believe it is fair and random.
 
 Is it true? I tested it.
 
 ## Definition of Amidakuji
 
-Amidakuji composed of vertical line and horizontal line.
+Amidakuji is composed of vertical line and horizontal line.
 
 Vertical line is an array, and horizontal line is array replace in programing.
 
@@ -62,7 +62,7 @@ sheet.to_csv("result.csv")
 
 ## what I do?
 
-I tested 10000 time.
+I tested 10,000 times.
 
 I find that amidakuji is not randomly.
 
